@@ -1,0 +1,17 @@
+Project Name & ID : cloud-upload-221306
+
+API Credentials : (API KEY : AIzaSyBZULjr9GNA5bTZXUdy1j1e3AmMfGquB08)
+
+Client ID : 883610176771-ij20c1shtivb1u5qkes8uu6rl1ntm4vq.apps.googleusercontent.com
+
+Client Secret : wrMi9v9fXBUhyf38OGZ5O4Xc
+
+
+student submission
+batch one 1
+batch one 2
+batch one 3
+
+student 1
+student 2
+student 3

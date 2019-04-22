@@ -1,0 +1,1 @@
+<footer class="footer">Copyright &copy; 2018 Paathshala Education | All rights reserved</footer>

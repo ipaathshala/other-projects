@@ -1,0 +1,4 @@
+/**
+ * Coming Soon 3.0
+ * by Michele Ivani
+ */$(document).ready(function(){$("time").timeago();var e=$(".tweets ul");e.children("li:first").show();setInterval(function(){e.children("li:visible").fadeOut(200,function(){$(this).index()===$(this).parent().children().length-1?$(this).parent().children("li").eq(0).fadeIn(600):$(this).next().fadeIn(600)})},4500);$("#subscribe-btn").on("click",function(e){e.preventDefault();var t=$(this).data("msg-ok"),n=$(this).data("msg-no"),r=$(this).data("msg-error"),i=$(this).data("msg-undo"),s=$("input[name=email]");$(".loader").fadeIn("fast");var o={_token_public:$("input[name=_token_public]").val(),email:s.val()},u=$.post("cs-public/includes/subscribe.php",o,function(e){if(typeof e.error!="undefined"){var o=e.error.type==1?n:r;s.val("");s.attr("placeholder",o)}else{var o=e.ok.type==1?t:i;s.val("");s.attr("placeholder",o)}},"json").fail(function(e){s.val("");s.attr("placeholder",n)});$(".loader").fadeOut("fast");return!1})});

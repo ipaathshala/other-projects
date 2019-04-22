@@ -1,0 +1,14 @@
+Project ID: gdriveupload-221112. It cannot be changed later.
+
+api key - AIzaSyAW117cTZekYqLo44zDowU8wC6do7aW0B0
+
+Here is your client ID - 165178902432-b3sktnc7chs80cusv7ul107m03fdlgj3.apps.googleusercontent.com
+
+Here is your client secret - Ssr_niU3tG9wGA7Puk431wZq
+
+
+
+
+Client id - 165178902432-67htf4tkuh6miaaungpjpq27oiauvjip.apps.googleusercontent.com
+
+Client Secret - RYDVDt_GX_qPHEMycDcDWWly
